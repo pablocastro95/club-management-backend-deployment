@@ -1,0 +1,9 @@
+[submodule "club-management-bff"]
+	path = club-management-bff
+	url = https://github.com/pablocastro95/club-management-bff
+[submodule "club-management-service-courses"]
+	path = club-management-service-courses
+	url = https://github.com/pablocastro95/club-management-service-courses
+[submodule "club-management-service-masterdata"]
+	path = club-management-service-masterdata
+	url = https://github.com/pablocastro95/club-management-service-masterdata
